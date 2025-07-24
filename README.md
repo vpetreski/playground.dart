@@ -11,7 +11,11 @@ https://dart.dev/language
 - [test](test) - contains the test files
 - [analysis_options.yaml](analysis_options.yaml) - configuration file for the Dart analyzer, used to enforce coding standards and rules
 
-## Basics
+## Language
 
 - [hello.dart](bin/hello.dart) - a simple Dart program that prints "Hello, World!" to the console, run with `dart bin/hello.dart`
 - [Variables](https://dart.dev/language/variables)
+- [Operators](https://dart.dev/language/operators)
+- [Comments](https://dart.dev/language/comments)
+- Types
+  - [Built-in types](https://dart.dev/language/built-in-types)
