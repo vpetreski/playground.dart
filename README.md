@@ -1,6 +1,6 @@
 # Dart Playground
 
-https://dart.dev/overview
+https://dart.dev/language
 
 - [pubspec.yaml](pubspec.yaml) - project / build file, like `pom.xml` in Java
 - [pubspec.lock](pubspec.lock) - dependency lock file, automatically generated
@@ -14,3 +14,4 @@ https://dart.dev/overview
 ## Basics
 
 - [hello.dart](bin/hello.dart) - a simple Dart program that prints "Hello, World!" to the console, run with `dart bin/hello.dart`
+- [Variables](https://dart.dev/language/variables)
