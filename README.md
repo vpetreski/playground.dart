@@ -19,3 +19,8 @@ https://dart.dev/language
 - [Comments](https://dart.dev/language/comments)
 - Types
   - [Built-in types](https://dart.dev/language/built-in-types)
+  - [Records](https://dart.dev/language/records)
+  - [Collections](https://dart.dev/language/collections)
+  - [Generics](https://dart.dev/language/generics)
+  - [Typedefs](https://dart.dev/language/typedefs)
+  - [Type System](https://dart.dev/language/type-system)
