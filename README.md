@@ -1,6 +1,6 @@
 # Dart Playground
 
-https://dart.dev/language
+https://dart.dev/docs
 
 - [pubspec.yaml](pubspec.yaml) - project / build file, like `pom.xml` in Java
 - [pubspec.lock](pubspec.lock) - dependency lock file, automatically generated
@@ -24,3 +24,8 @@ https://dart.dev/language
   - [Generics](https://dart.dev/language/generics)
   - [Typedefs](https://dart.dev/language/typedefs)
   - [Type System](https://dart.dev/language/type-system)
+- Patterns
+  - [Overview & Usage](https://dart.dev/language/patterns)
+  - [Pattern Types](https://dart.dev/language/pattern-types)
+  - [Applied Tutorial](https://codelabs.developers.google.com/codelabs/dart-patterns-records)
+- Control Flow
