@@ -29,3 +29,11 @@ https://dart.dev/docs
   - [Pattern Types](https://dart.dev/language/pattern-types)
   - [Applied Tutorial](https://codelabs.developers.google.com/codelabs/dart-patterns-records)
 - Control Flow
+  - [Loops](https://dart.dev/language/loops)
+  - [Branches](https://dart.dev/language/branches)
+  - [Error Handling](https://dart.dev/language/error-handling)
+- [Functions](https://dart.dev/language/functions)
+- [Metadata](https://dart.dev/language/metadata)
+- [Libraries & Imports](https://dart.dev/language/libraries)
+- Classes & Objects
+  - [Classes](https://dart.dev/language/classes)
