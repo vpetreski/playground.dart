@@ -37,3 +37,13 @@ https://dart.dev/docs
 - [Libraries & Imports](https://dart.dev/language/libraries)
 - Classes & Objects
   - [Classes](https://dart.dev/language/classes)
+  - [Constructors](https://dart.dev/language/constructors)
+  - [Methods](https://dart.dev/language/methods)
+  - [Extend a class](https://dart.dev/language/extend)
+  - [Mixins](https://dart.dev/language/mixins)
+  - [Enumerated Types](https://dart.dev/language/enums)
+  - [Extension Methods](https://dart.dev/language/extension-methods)
+  - [Extension Types](https://dart.dev/language/extension-types)
+  - [Callable Objects](https://dart.dev/language/callable-objects)
+- Class Modifiers
+  - [Overview & Usage](https://dart.dev/language/class-modifiers)
