@@ -47,3 +47,7 @@ https://dart.dev/docs
   - [Callable Objects](https://dart.dev/language/callable-objects)
 - Class Modifiers
   - [Overview & Usage](https://dart.dev/language/class-modifiers)
+  - [Class modifiers for API maintainers](https://dart.dev/language/class-modifiers-for-apis)
+  - [Class modifiers reference](https://dart.dev/language/modifier-reference)
+- Concurrency
+  - [Overview](https://dart.dev/language/concurrency)
