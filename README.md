@@ -81,3 +81,10 @@ https://dart.dev/docs
 ## Packages
 - [pub.dev](https://pub.dev)
 - [How to use packages](https://dart.dev/tools/pub/packages)
+- [Commonly used packages](https://dart.dev/resources/useful-packages)
+- [Creating packages](https://dart.dev/tools/pub/create-packages)
+- [Publishing packages](https://dart.dev/tools/pub/publishing)
+- [Writing package pages](https://dart.dev/tools/pub/writing-package-pages)
+- [Pub workspaces (monorepo support)](https://dart.dev/tools/pub/workspaces)
+- [Package reference...](https://dart.dev/tools/pub/dependencies)
+- [What not to commit](https://dart.dev/tools/pub/private-files)
