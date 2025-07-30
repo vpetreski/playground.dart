@@ -72,3 +72,11 @@ https://dart.dev/docs
   - [Creating Streams](https://dart.dev/libraries/async/creating-streams)
 
 ## Effective Dart
+- [Overview](https://dart.dev/effective-dart)
+- [Style](https://dart.dev/effective-dart/style)
+- [Documentation](https://dart.dev/effective-dart/documentation)
+- [Usage](https://dart.dev/effective-dart/usage)
+- [Design](https://dart.dev/effective-dart/design)
+
+## Packages
+- [How to use packages](https://dart.dev/tools/pub/packages)
